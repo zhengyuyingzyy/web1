@@ -1,0 +1,366 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*header开始*/
+.header{
+	height: 170px;
+	background-color: #eeeeef
+}
+.logo{
+	text-align: center;
+	height: 125px;
+}
+.logo img{
+	margin-top: 30px;
+}
+.nav{
+	width: 670px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 23px;
+}
+.nav li{
+	font-size: 14px;
+	line-height: 45px;
+	padding: 0px 30px;
+	float: left;
+	height: 45px;
+	background: url(../images/li.right.png) no-repeat right center;
+}
+.nav li a{
+	display: block;
+	height: 42px;
+
+}
+#lll{
+	border-bottom: 3px solid #1e50ae;
+}
+.nav li:last-child{
+	background: none;
+}
+/*banner 开始*/
+.banner{
+	width: 100%;
+	height:405px;
+	background :url(../images/san.png) no-repeat center center;
+}
+/*服务开始*/
+.sever{
+	width: 1200px;
+	height: 810px;
+	margin:0 auto;
+}
+.sever h3{
+	text-align: center;
+	padding: 64px 0px 0px 0px;
+	font-size: 34px;
+}
+.sever h4{
+	padding: 23px 0px 0px 0px;
+	text-align: center;
+	font-size: 31px;
+}
+.nav li{
+	font-size: 14px;
+	line-height: 45px;
+	padding: 0px 30px;
+	float: left;
+	height: 45px;
+	background: url(../images/li.right.png) no-repeat right center;
+}
+.one{
+	height: 670px;
+	width: 1200px;
+}
+.bir{
+	width: 1072px
+	margin: 0 auto;
+}
+.two{
+	height: 423px;
+	width: 300px;
+	float: left;
+}
+.ones{
+	height: 184px;
+	width: 300px;
+	float: left;
+}
+}
+.three{
+	height: 220px;
+	
+	text-align: center;
+}
+.four{
+	list-style-image:url(../images/pleft.png);
+	list-style-position : inside;
+}
+.five{
+	width: 120px;
+	height: 153px;
+	margin-top: 18px ;
+	margin-left: 110px;
+}
+.three li{
+	font-size: 14px;
+	color: #909090;
+	line-height: 26px;
+	
+}
+.three p{
+	padding-top: 23px;
+	font-size: 16px;
+	text-align: center;
+}
+.zu{
+	width: 147px;
+	height:148px;
+	margin-left: 75px;
+}
+/*服务结束*/
+/*解决方案开始*/
+.qwe{
+	background: url(../images/fou.png) no-repeat center center;
+}
+.solve{
+
+	width: 1200px;
+	height: 712px;
+	margin: 0 auto;
+	text-align: center;
+}
+.solve h3{
+	text-align: center;
+	padding: 64px 0px 0px 0px;
+	font-size: 34px;
+}
+.solve h4{
+	padding: 23px 0px 0px 0px;
+	text-align: center;
+	font-size: 31px;
+}
+.six{
+	width: 1200px;
+	height: 450px;
+}
+.solve button{
+	width: 230px;
+	height: 50px;
+	background:none;
+	border: 1px solid #fff;
+	border-radius:25px; 
+}
+.seven{
+	height: 450px;
+	width: 300px;
+	float: left;
+	
+}
+.eight{
+	margin: 75px 35px;
+}
+.nine{
+	margin:210px 0px;
+	float: left;
+}
+.ten{
+	margin: 75px 35px 75px 10px;
+	float: left;
+}
+.eleven{
+	margin: 75px 10px 75px 35px;
+	float: left;
+}
+.twelve{
+	margin:210px 0px;
+	float: right;
+}
+/*解决方案结束*/
+/*最新资讯开始*/
+.aaa{
+	width: 1600px;
+	height: 1010px;
+	background:none;
+}
+.information{
+	width: 1200px;
+	height: 1010px;
+	margin: 0 auto;
+	background: none;
+}
+.pic{
+	width: 1200px;
+	height: 877px;
+}
+.information h3{
+	text-align: center;
+	padding: 64px 0px 0px 0px;
+	font-size: 34px;
+}
+.information h4{
+	padding: 23px 0px 0px 0px;
+	text-align: center;
+	font-size: 31px;
+}
+
+.globe{
+	width: 600px;
+	height: 424px;
+	float: left;
+	margin: 0 auto;
+}
+.ya{
+	width: 140px;
+	height: 50px;
+		margin-top: 30px;
+	}
+
+.globe button{
+	width: 140px;
+	height: 40px;
+	background:none;
+	border: 1px solid #1141a3;
+	border-radius:20px;
+}
+.wenzi{
+	width: 600px;
+	height: 350px;
+	float: left;
+}
+.da{
+	margin-top: 80px;
+	font-size: 22px;
+}
+.xiao{
+	margin-top: 20px;
+	font-size: 18px;
+}
+.wen{
+	margin-top: 37px;
+	font-size: 14px;
+	color: #969696
+}
+.wy{
+	height: 47px;
+	width: 510px;
+}
+.wenzi p{
+	height: 33px;
+	border-bottom: 3px dashed #909090;
+	font-size: 14px;
+	color: #909090;
+}
+.abc{
+	background-color: #f5f5f5;
+	width: 100%;
+	height: 100px;
+	float: left;
+
+}
+.black{
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;
+}
+.grey{
+	width: 300px;
+	height: 100px;
+	float: left;
+	margin: 0 auto;
+
+}
+.ww{
+	width: 50px
+	height:100px;
+	margin-left: 50px;
+	float: left;
+	margin-top: 30px;
+}
+.ee{
+	width: 170px;
+	height: 45px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	color: #5f5f5f;
+	border-right: 3px solid #e0e0e0;
+}
+.rr{
+	font-size: 19px;
+}
+.tt{
+	font-size: 13px;
+}
+.black grey picture{
+	width: 47px;
+	height: 100px;
+	margin: 0 auto;
+	float: left;
+}
+.black grey write{
+	float: left;
+}
+/*结束*/
+.ll{
+	width: 1600px;
+	background:url(../images/bei.png)  no-repeat center center;
+	float: left;
+	height: 387px;
+}
+.las{
+	height: 387px;
+	width: 1200px;
+	text-align: center;
+	color: #cacaca;
+}
+.weixin{
+	width: 182px;
+	height: 214px;
+	float: left;
+	margin-top: 48px;
+}
+.weixin h3{
+	margin-top: 3px;
+	margin-bottom: 8px;
+	font-size: 18px
+	color:#fff;
+}
+.weixin p{
+	margin-top: 17px;
+	font-size: 14px
+	color:#ebebeb;
+}
+.weixina{
+	width: 147px;
+	height: 147px;
+	float: left;
+	margin-top: 48px;
+}
+.h{
+	height: 147px;
+	width: 90px;
+	float: left;
+	margin-top: 48px;
+}
+.g{
+	font-size: 14px;
+	margin-top: 10px;
+}
+.s{
+	float:left;
+	margin-top:48px;
+	margin-left: 15px;
+}
+.oo{
+	margin-left: 20px;
+
+}
